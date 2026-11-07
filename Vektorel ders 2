@@ -1,0 +1,36 @@
+operatorler
+
+# Aritmetik operatorlar / Matematiksel operatorler
+print(5+9) # + operatand
+print("5"+"9") # + operator, 5 ile 9 operand birleştirme
+print(5*9)
+print(20/3)
+print(20//3) # virgülsüz bölme
+print(2**3) # üst alma
+print(10**3) # üst alma
+print(10%3) # mod alma
+print(20%3) # mod alma
+
+# String operatorleri
+print("5"+"9") # + operator, 5 ile 9 operand birleştirme
+print("Vektorel"+"Bilisim") # + operator, 5 ile 9 operand birleştirme
+print("Vektorel"*4) # + operator, 5 ile 9 operand birleştirme
+
+# Mantıksal operatorler /karşılaştırma operatorler True/False sonucu üreten operatorlerdir
+# True = Doğru = 1 = Evet = Olumlu
+# False = Yanlış = 1 = Hayır = Olumsuz
+
+print(3<8)
+print(3>8)
+print(3<=8) # küçük veya eşit mi
+print(3>8)  # büyük veya eşit mi
+print(3==8)
+print(3==3)
+print(3>8 or 15>12) # sadece bir şartın doğru olması durumunda sonuc dogru olur
+print(13>8 and 15>12) # tüm şartların doğru ılmaso durıöımda sonuç doğru olur.
+print(3!=8) # eşit değil mi
+
+
+### Ödev : 
+    .print sunusunun sonundaki ödev ve görevleri yapın
+    .açmadıysamız github hesabı açın
